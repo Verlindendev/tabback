@@ -4,8 +4,7 @@
     "description": "Brings you back to the previously viewed tab. This can give you a back and forth utility between 2 tabs. Simple & lightweight.",
     "version": "1.0",
     "permissions": [        
-    "activeTab",
-    "tabs"],
+    "activeTab"],
     "background": {
       "service_worker": "background.js"
     },
